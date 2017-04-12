@@ -1,6 +1,13 @@
+
+See https://github.com/sweyrick/jquery.tap
+
+Just fixed the touchmove event problem, prevent touchmove event from tap event;
+
+---------------------------
+
 # jQuery.tap
 
-http://aarongloege.github.com/jquery.tap/
+https://github.com/sweyrick/jquery.tap
 A jQuery plugin that creates a click alternative for touch enabled browsers.
 
 ## Why?
